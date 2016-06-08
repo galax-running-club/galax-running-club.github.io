@@ -144,7 +144,8 @@ img.img-index {
   text-align: right;
 }
 
-.calendar-event {
+.calendar-event,
+.merch-item {
   border-radius: .25em;
   border: 1px solid #ddd;
   padding: .5em;
@@ -183,6 +184,11 @@ img.img-index {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+
+.merch-header {
+  margin-top: 0;
 }
 
 @media screen and (max-width: 767px) { /* mobile */
