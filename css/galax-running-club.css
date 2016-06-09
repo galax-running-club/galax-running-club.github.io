@@ -200,6 +200,10 @@ img.img-index {
     margin-left: 1em;
   }
 
+  .center-mobile {
+    text-align: center;
+  }
+
   img.img-index {
     margin: auto;
     display: block;
