@@ -75,6 +75,24 @@ h1, h2, h3, h4, h5, .nav, .calendar-time {
     margin-right: .5em;
 }
 
+.img-rw {
+  max-height: 1em;
+  display:inline-block;
+}
+
+.img-rw img {
+  max-height: 3.5em;
+}
+
+.rw-link {
+  width: 100%;
+  text-align: center;
+}
+
+.rw-link img {
+  margin: auto;
+}
+
 .navbar-brand {
     font-size: 1em;
 }
